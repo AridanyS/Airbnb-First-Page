@@ -5,7 +5,7 @@
     font-size: 15px;
 }
 h1{
-    color: solid blue;
+    background-color: solid blue;
 }
 header{
     display: flex;
