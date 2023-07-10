@@ -1,0 +1,59 @@
+/*Importamos la fuente de Airbnb (una similar)*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*border: 1px solid red;*/
+    margin-top: 15px;
+}
+.logo{
+    width: 100px;
+    /*border: 1px solid blue;*/
+    margin-left: 5%;
+}
+.search{
+    display: flex;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+}
+.search:hover{
+    box-shadow: 0 2px 2px lightgray;
+}
+.C-lugar,.C-semana,.Añade-viajeros{
+    padding: 12px;
+}
+span{
+    filter: opacity(50%);
+}
+.Añade-viajeros,.C-semana{
+    border-left: 1px solid lightgray;
+}
+.buscar{
+    padding-top: 9px;
+    padding-right: 12px;
+}
+.header-right{
+    display: flex;
+    /*border: 1px solid green;*/
+    margin-right: 5%;
+}
+.header-icons{
+    display: flex;
+}
+.text-header-right, .language, .login{
+    padding: 10px;
+    border-radius: 30px;
+    height: 30px;
+}
+.text-header-right:hover,.language:hover,.login:hover{
+    background-color: #eeeeee;
+}
+hr{
+    border-color: #ffffff;
+    filter: opacity(50%);
+}
