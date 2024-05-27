@@ -1,7 +1,7 @@
-# Airbnb-First-Page
+# Airbnb Homepage
 
-Recreación de la página de inicio de [Airbnb](https://www.airbnb.es/)
+Recreation of the Airbnb homepage to PC [Airbnb](https://www.airbnb.es/)
 
 Deploy: [Airbnb-Page](https://courageous-vacherin-b1c8e6.netlify.app)
 
-**Diseño solo para PC**
+**Design for desktop**
